@@ -11,6 +11,14 @@ padronização de código.
 
 ---
 
+## 🔗 Visualização do Projeto:
+
+A página está disponível via:
+
+➜ **GitHub Pages**: https://vanessayuriab.github.io/web_project_library_pt/
+
+---
+
 ## 🧭 Contexto do Projeto
 
 ### Sprint 2 — Layout de página e Semântica (base conceitual)
